@@ -1,6 +1,6 @@
 {
   "name": "@ticktockbent/spectrum-display",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ZX Spectrum 48K/128K ULA display renderer — React component for faithful framebuffer-to-canvas rendering",
   "license": "MIT",
   "type": "module",
